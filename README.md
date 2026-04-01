@@ -43,7 +43,8 @@ This project aims to solve these challenges through structured data analysis and
 
 ## 📊 Dashboard Preview
 
-![Dashboard](Excel_Dashboard.png,Power_BI_Dashboard.png)
+![Dashboard](Excel_Dashboard_.png)
+![Dashboard](Excel_Dashboard_.png)
  
 
 ---
