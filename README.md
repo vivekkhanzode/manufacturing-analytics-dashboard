@@ -25,6 +25,7 @@ This project aims to solve these challenges through structured data analysis and
 * **SQL** – Data extraction, transformation, and analysis
 * **Microsoft Excel** – Data cleaning and preprocessing
 * **Power BI** – Interactive dashboard and visualization
+* Tablue = Interactive Dashboard
 
 ---
 
