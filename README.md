@@ -81,7 +81,7 @@ This project aims to solve these challenges through structured data analysis and
 
 1. Open `PowerBI_Dashboard.pbix` in Power BI Desktop
 2. Execute queries from `SQL_Analysis.sql` for data insights
-3. Explore `manufacturing_data.xlsx` for raw and processed data
+3. Explore `Manufacturing_Data.xlsx` for raw and processed data
 
 ---
 
